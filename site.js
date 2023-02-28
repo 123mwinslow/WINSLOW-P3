@@ -51,7 +51,8 @@ const vue_app = Vue.createApp({
 
             },
             posterClick(index){
-
+var x = ,
+var y =
             },
             timeText(minutes){
                   
