@@ -44,15 +44,9 @@ const vue_app = Vue.createApp({
             getMonthtext(dateArray){
 
             },
-            like(index){
-
-            },
-            dislike(index){
-
-            },
             posterClick(index){
-var x = ,
-var y =
+// var x = 
+// var y =
             },
             timeText(minutes){
                   
