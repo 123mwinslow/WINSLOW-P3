@@ -68,5 +68,19 @@
             "likes": 812,
             "dislikes": 101,
             "posterindex": 0
+      },
+      {
+            "title": "Blade",
+            "iscore": 10,
+            "rating": "R",
+            "runtime": 110,
+            "released": [1982, 6, 25],
+            "country": "USA",
+            "posters": ["img/bladerunner.jpg"],
+            "imdb": "https://www.imdb.com/title/tt0083658/",
+            "website": "https://en.wikipedia.org/wiki/Blade_Runner",
+            "likes": 1000,
+            "dislikes": 178,
+            "posterindex": 0
       }
 ]
